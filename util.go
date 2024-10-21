@@ -2,6 +2,7 @@ package dodev
 
 import "fmt"
 
-func PrintDariPackageMod() {
+func PrintDariPackageMod() string{
 	fmt.Println("Berhasil")
+	return "BERHASIL CONNECT"
 }
